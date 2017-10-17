@@ -98,4 +98,4 @@ If you want to include multiple zones you can separate them with underscores: [h
 
 
 
-<sub>*I'm very aware that most RS lots can now have up to 3 suites (1 main, secondary, 1 laneway house). But its' hard to describe that succinctly, and even the City of Vancouver still calls RS "One-Family Districts" and state that a major goal is to retain their "single-family residential character".</sub>
+<sub>*I'm very aware that most RS lots can now have up to 3 suites (1 main, secondary, 1 laneway house). But it's hard to describe that succinctly, and even the City of Vancouver still calls RS "One-Family Districts" and state that a major goal is to retain their "single-family residential character".</sub>
