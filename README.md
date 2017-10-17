@@ -26,9 +26,9 @@ Lots with building value between $500k and $1M: [https://mountainmath.ca/map/ass
 
 You can also filter on *relative land value* with the `rlv` filter. This shows lots with land value between $1000 and $2000 per square metre: [https://mountainmath.ca/map/assessment?filter=[**rlv_1000_2000**]](https://mountainmath.ca/map/assessment?filter=[rlv_1000_2000])
 
-### FSR
+### Floor Space Ratio (FSR)
 
-Floor Space Ratio, one measure of how dense a building is. This data is not exact - it is estimated by Jens based on Vancouver’s LIDAR survey of buildings.
+[Floor Space Ratio or Floor Area Ratio](https://en.wikipedia.org/wiki/Floor_area_ratio) is one measure of how dense a building is. This data is not exact - it is estimated by Jens based on Vancouver’s LIDAR survey of buildings.
 Buildings with an estimated FSR between 0 and 1: [https://mountainmath.ca/map/assessment?filter=[**fsr_0.0_1.0**]](https://mountainmath.ca/map/assessment?filter=[fsr_0.0_1.0])
 
 ### Geographic filters
