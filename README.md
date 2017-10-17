@@ -6,9 +6,9 @@ It has also has an extremely useful feature that many people don’t know about 
 
 ## Basics
 
-Say you want to see which Vancouver buildings were built between 1900 and 1940. Just add a `years` filter to the link like so: [https://mountainmath.ca/map/assessment?filter=[**years_1900_1940**]](https://mountainmath.ca/map/assessment?filter=[years_1900_1940])
+Say you want to see which Vancouver buildings were built between 1900 and 1940. Just add a `years_1900_1940` filter to the link like so: [https://mountainmath.ca/map/assessment?filter=[**years_1900_1940**]](https://mountainmath.ca/map/assessment?filter=[years_1900_1940])
 
-If you wanted to see all buildings with an estimated floor space ratio (FSR) between 0 and 1, you could do use the `fsr` filter: [https://mountainmath.ca/map/assessment?filter=[**fsr_0.0_1.0**]](https://mountainmath.ca/map/assessment?filter=[fsr_0.0_1.0])
+If you wanted to see all buildings with an estimated floor space ratio (FSR) between 0 and 1, add a `fsr_0.0_1.0` filter: [https://mountainmath.ca/map/assessment?filter=[**fsr_0.0_1.0**]](https://mountainmath.ca/map/assessment?filter=[fsr_0.0_1.0])
 
 Filters can easily be combined with a comma. If you wanted buildings that were built between 1900-1940 _and_ are between 1 and 2 FSR, the link would look like this: [https://mountainmath.ca/map/assessment?filter=[**fsr_0.0_1.0,years_1900_1940**]](https://mountainmath.ca/map/assessment?filter=[fsr_0.0_1.0,years_1900_1940])
 
@@ -74,7 +74,6 @@ Land use codes:
 * J000: "Recent Redeveloped / Misclassified"
 
 
-
 ### Teardown Coefficient
 
 The "Teardown Coefficient" is [a measure developed to estimate the chance that a building is likely to be torn down](https://doodles.mountainmath.ca/blog/2016/01/18/redevelopment/). Use the `tdc` filter.
@@ -99,16 +98,4 @@ If you want to include multiple zones you can separate them with underscores: [h
 
 
 
-
-
-https://mountainmath.ca/map/assessment?filter=[]
-
-
-
-
-
-
-
-
-
-*I'm very aware that most RS lots can now have up to 3 suites (1 main, secondary, 1 laneway house). But its' hard to describe that succinctly, and even the City of Vancouver still calls RS "One-Family Districts" and state that a major goal is to retain their "single-family residential character".
+<sub>*I'm very aware that most RS lots can now have up to 3 suites (1 main, secondary, 1 laneway house). But its' hard to describe that succinctly, and even the City of Vancouver still calls RS "One-Family Districts" and state that a major goal is to retain their "single-family residential character".</sub>
