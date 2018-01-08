@@ -10,7 +10,7 @@ Say you want to see which Vancouver buildings were built between 1900 and 1940. 
 
 If you wanted to see all buildings with an estimated floor space ratio (FSR) between 0 and 1, add a `fsr_0.0_1.0` filter: [https://mountainmath.ca/map/assessment?filter=[**fsr_0.0_1.0**]](https://mountainmath.ca/map/assessment?filter=[fsr_0.0_1.0])
 
-Filters can easily be combined with a comma. If you wanted buildings that were built between 1900-1940 _and_ are between 1 and 2 FSR, the link would look like this: [https://mountainmath.ca/map/assessment?filter=[**fsr_0.0_1.0,years_1900_1940**]](https://mountainmath.ca/map/assessment?filter=[fsr_0.0_1.0,years_1900_1940])
+Filters can easily be combined with a comma. If you wanted buildings that were built between 1900-1940 _and_ are between 0 and 1 FSR, the link would look like this: [https://mountainmath.ca/map/assessment?filter=[**fsr_0.0_1.0,years_1900_1940**]](https://mountainmath.ca/map/assessment?filter=[fsr_0.0_1.0,years_1900_1940])
 
 ## Available Filters
 
