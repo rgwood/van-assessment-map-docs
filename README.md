@@ -2,7 +2,7 @@
 
 You might have already seen Jens von Bergmann’s interactive map of Vancouver at https://mountainmath.ca/map/assessment. It’s really useful for looking up zoning, year of construction, tax data, and even the estimated amount of floor space in buildings. I find it essential for understanding the city.
 
-It has also has a great feature that many people don’t know about – the ability to filter data for better visualization through the use of filters in the URL.
+It has also has a great feature that many people don’t know about: the ability to filter data for better visualization through the use of filters in the URL.
 
 ## Basics
 
