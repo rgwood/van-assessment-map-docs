@@ -74,6 +74,16 @@ Land use codes:
 * J000: "Recent Redeveloped / Misclassified"
 
 
+### Residential other than purpose-built rental
+
+Per Jens, the `priv_res` filter does this:
+
+> Land use residential or mixed or affordable, but taking out cases where unit count=1 and not single family/duplex. So trying to filter out purpose-built rental.
+
+[https://mountainmath.ca/map/assessment?filter=[**priv_res**]](https://mountainmath.ca/map/assessment?filter=[priv_res])
+
+
+
 ### Teardown Coefficient
 
 The "Teardown Coefficient" is [a measure developed to estimate the chance that a building is likely to be torn down](https://doodles.mountainmath.ca/blog/2016/01/18/redevelopment/). Use the `tdc` filter.
